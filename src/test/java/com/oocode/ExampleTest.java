@@ -7,7 +7,7 @@ import static org.hamcrest.core.Is.*;
 
 public class ExampleTest {
 	@Test 
-	public void canAnswerTheUniversalQuestion() {
-		assertThat(new Example().answer(), is(42));
+	public void n() {
+		assertThat(new Example().fizzbuzz(1), is("1"));
 	}
 }
