@@ -6,6 +6,6 @@ public class Example {
 	}
 
 	public String fizzbuzz(int i) {
-		return null;
+		return "1";
 	}
 }
